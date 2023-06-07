@@ -1830,7 +1830,7 @@ h1, h2, h3, h4, h5,
   .footer .footer-heading {
     font-size: 16px;
     color: #fff;
-    margin-bottom: 20px; }
+    margin-bottom: 0px; }
     .footer .footer-heading span {
       border-bottom: 3px solid #fff; }
   .footer a:hover {
@@ -1838,7 +1838,7 @@ h1, h2, h3, h4, h5,
     text-decoration: underline; }
   .footer .copyright {
     color: #fff;
-    padding-top: 5px;
+    padding-top: 0px;
     text-align: center; }
 
 .ftco-subscribe-1 {
